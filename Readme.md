@@ -1,5 +1,4 @@
 # Credit Card Fraud Detection
-This was made by me during the 6th semester(2020).<br>
 Implemented Naïve Bayes, K-Nearest Neighbor and Logistic Regression algorithms to choose the best model to classify a transaction as fraudulent or legitimate.<br><br>
 ***Dataset Description***<br>
 In this research experiment, we would be using real life data obtained from Kaggle. The dataset obtained, contained 284,807 transactions made by European credit cardholders over
